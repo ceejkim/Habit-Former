@@ -1,6 +1,6 @@
 ## Welcome to Habits for Life
 
-Welcome to the beginning of a new journey that will change your life forevery.
+Welcome to the beginning of a new journey that will change your life forever.
 
 Let's begin with simple habits, every day, any day. 
 
