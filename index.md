@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Habits for Life
 
-You can use the [editor on GitHub](https://github.com/ceejkim/Habit-Former/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the beginning of a new journey that will change your life forevery.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let's begin with simple habits, every day, any day. 
 
 ### Markdown
 
